@@ -1,0 +1,106 @@
+---
+title: "Learn R the right way"
+author: "victor kibisu"
+date: "2022-11-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Introduction
+R is an increasingly popular programming language, particularly in the world of data analysis and data science. You may have even heard people say that it’s easy to learn R! But  easy is relative. Learning R can be a frustrating challenge if you’re not sure how to approach it.
+
+If you’ve struggled to learn R or another programming language in the past, you’re definitely not alone. And it’s not a failure on your part, or some inherent problem with the language.
+
+Usually, it’s the result of a mismatch between what’s motivating you to learn and how you’re actually learning.
+
+This mismatch causes big problems when you’re learning any programming language, because it takes you straight to a place we like to call the cliff of boring.
+
+What is the cliff of boring? It’s the mountain of boring coding syntax and dry practice problems you’re generally asked to work through before you can get to the good stuff — the stuff you actually want to do.
+
+
+This is the process that causes new learners to drop off in droves:
+
+You get excited about learning a programming language because you want to do something with it.
+You try to start learning and are immediately led to this huge wall of complicated, boring stuff.
+You struggle through some of the boring stuff with no idea how it relates to the thing you actually want to do.
+
+## Step 1. Find Your Motivation for Learning R
+Before you crack a textbook, sign up for a learning platform, or click play on your first tutorial video, spend some time to really think about why you want to learn R, and what you’d like to do with it.
+
+What data are you interested in working with?
+What projects would you enjoy building?
+What questions do you want to answer?
+Find something that motivates you in the process. This will help you define your end goal, and it will help you get to that end goal without boredom.
+
+Try to go deeper than “becoming a data scientist.” There are all kinds of data scientists who work on a huge variety of problems and projects. Are you interested in analyzing language? Predicting the stock market? Digging deep into sports statistics? What’s the thing you want to do with your new skills that’s going to keep you motivated as you work to learn R?
+
+Pick one or two things that interest you and that you’re willing to stick with. Gear your learning towards them and build projects with your interests in mind.
+
+Figuring out what motivates you will help you figure out an end goal, and a path that gets you there without boredom. You don’t have to figure out an exact project, just a general area you’re interested in as you prepare to learn R.
+
+
+## Step 2. Learn the Basic Syntax
+Unfortunately, there’s no way to completely avoid this step. Syntax is a programming language is even more important than syntax in human language. If someone says “I’m the store going to,” their English-language syntax is wrong, but you can probably still understand what they mean. Unfortunately, computers are far less forgiving when they interpret your code.
+
+However, learning syntax is boring, so your goal must be to spend as little time as possible doing syntax learning. Instead, learn as much of the syntax as you can while working on real-world problems that interest you so that there’s something to keep you motivated even though the syntax itself isn’t all that exciting.
+
+## Step 3. Work on Structured Projects
+Once you’ve got enough syntax under your belt, you’re ready to move on to structured projects more independently. Projects are a great way to learn, because they let you apply what you’ve already learned while generally also challenging you to learn new things and solve problems as you go. Plus, building projects will help you put together a portfolio you can show to future employers later down the line.
+
+## Step 4. Build Projects on Your Own
+Once you’ve finished some structured projects, you’re probably ready to move on to the next stage of learning R: doing your own unique data science projects. It’s hard to know how much you’ve really learned until you step out and try to do something by yourself. Working on unique projects that interest you will give you a great idea not only of how far you’ve come but also of what you might want to learn next.
+
+And although you’ll be building your own project, you won’t be working alone. You’ll still be referring to resources for help and learning new techniques and approaches as you work. With R in particular, you may find that there’s a package dedicated to helping with the exact sort of project you’re working on, so taking on a new project sometimes also means you’re learning a new R package.
+
+Data science / Data analysis
+
+A script to automate data entry.
+A tool to scrape data from the web.
+Data Visualization
+
+A map that visualizes election polling by state, or region.
+A collection of plots that depict the real-estate sale or rental trends in your area.
+Predictive modeling / machine learning
+
+An algorithm that predicts the weather where you live.
+A tool that predicts the stock market.
+An algorithm that automatically summarizes news articles.
+Statistics
+
+A model that predicts the cost of a Uber trips in your area.
+Reproducible reports
+
+A report of Covid-19 trends in your area in an R Markdown report that can be updated when new data becomes available.
+A summary report of performance data for your favorite sports team.
+Dashboard reports
+
+A map of the live locations of buses in your area.
+A stock market summary.
+A Covid-19 tracker, like this one.
+A summary of your personal spending habits.
+
+
+
+## Step 5. Ramp Up the Difficulty
+Working on projects is great, but if you want to learn R then you need to ensure that you keep learning. You can do a lot with just data visualization, for example, but that doesn’t mean you should build 20 projects in a row that only use your data visualization skills. Each project should be a little tougher and a little more complex than the previous one. Each project should challenge you to learn something you didn’t know before.
+
+If you’re not sure exactly how to do that, here are some questions you can ask yourself to apply more complexity and difficulty to any project you’re considering:
+
+Can you teach a novice how to make this project by (for example) writing a tutorial? Trying to teach something to someone else will quickly show you how well you really understand it, and it can be surprisingly challenging!
+Can you scale up your project so that it can handle more data? A lot more data?
+Can you improve its performance? Could it run faster?
+Can you improve the visualization? Can you make it clearer? Can you make it interactive?
+Can you make it predictive?
+
+
+## Never Stop Learning R
+Learning a programming language is kind of like learning a second spoken language — you will reach a point of comfort and fluency, but you’ll never really be done learning. Even experienced data scientists who’ve been working with R for years are still learning new things, because the language itself is evolving, and new packages make new things possible all the time.
+
+It’s important to stay curious and keep learning, but don’t forget to look back and appreciate how far you’ve come from time to time, too.
+
+Learning R is definitely a challenge even if you take this approach. But if you can find the right motivation and keep yourself engaged with cool projects, I think anybody can reach a high level of proficiency.
+
+We hope this guide is useful to you on your journey. If you have any other resources to suggest, please let us know!
